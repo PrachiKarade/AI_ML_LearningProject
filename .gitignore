@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+**/runtimes/
+*.dll
+*.so
+*.dylib
+*.onnx
+.vs/
